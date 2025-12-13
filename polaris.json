@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1765612164,
+            "datetime": 1765634735,
             "filename": "axion-2.2.1-NIGHTLY-20251213-UNOFFICIAL-VANILLA-polaris.zip",
-            "id": "b7a9cd7e4a4054fc082af4a238936795",
+            "id": "f28d73e498a9170208bbbe32b831fab3",
             "romtype": "UNOFFICIAL",
-            "size": 1409785552,
-            "url": "https://github.com/Luoxue520QwQ/AxionOS-OTA/releases/download/2.2.1/axion-2.2.1-NIGHTLY-20251213-UNOFFICIAL-VANILLA-polaris.zip",
+            "size": 1400581722,
+            "url": "https://github.com/Luoxue520QwQ/AxionOS_Xiaomi_Mi_Mix_2S/releases/download/2.2.1-UNOFFICIAL/axion-2.2.1-NIGHTLY-20251213-UNOFFICIAL-VANILLA-polaris.zip",
             "version": "2.2.1"
         }
     ]
