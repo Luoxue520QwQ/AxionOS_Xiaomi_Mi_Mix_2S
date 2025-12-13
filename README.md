@@ -8,10 +8,8 @@
 > 刷机前请务必**备份数据**并阅读 Release 内的刷机须知。
 
 ## 🛠️ 刷机小贴士
-1. 已刷第三方 Recovery（TWRP ≥ 3.7）；
+1. 已刷 Recovery；
 2. 进行 **Data 分区格式化**（首次刷入 Axion 必须）；
-3. 刷入 ROM zip 后，可自选刷入 [Magisk 26.4+](https://github.com/topjohnwu/Magisk) 获取 Root；
-4. 开机后请在 **设置 → 显示 → 刷新率** 中体验 FPS 切换。
 
 ---
 
