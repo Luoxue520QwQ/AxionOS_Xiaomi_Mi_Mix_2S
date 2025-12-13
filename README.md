@@ -1,3 +1,6 @@
+# LineageOS Xiaomi Mi Mix 2S
+
+![2okPze5](https://github.com/fakemanoan/LineageOS-Releases/assets/55951275/ce162595-1212-4e74-bf84-d8256eef00b9](https://youke2.picui.cn/s1/2025/12/13/693d879d2ab03.jpg)
 
 ---
 
