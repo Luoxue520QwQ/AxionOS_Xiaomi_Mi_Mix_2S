@@ -1,6 +1,6 @@
 # AxionOS Xiaomi Mi Mix 2S
 
-![2okPze5](https://youke2.picui.cn/s1/2025/12/13/693d879d2ab03.jpg)
+![2.6](https://raw.githubusercontent.com/Luoxue520QwQ/AxionOS_Xiaomi_Mi_Mix_2S/main/2.x.png)
 
 ---
 
